@@ -1,2 +1,2 @@
-# KnowledgeBase
-Resources of Knowledge Base
+# KnowledgeGraph
+Resources of Knowledge Graph (KG) / Knowledge Base (KB)
