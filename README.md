@@ -7,3 +7,9 @@ Resources of Knowledge Graph (KG) / Knowledge Base (KB)
 | ---- | ---- | -------------------------------------------------------------------- |
 | 2021 | EMNLP | [A Semantic Filter Based on Relations for Knowledge Graph Completion](https://aclanthology.org/2021.emnlp-main.625/) |
 | 2021 | EMNLP | [Highly Parallel Autoregressive Entity Linking with Discriminative Correction](https://arxiv.org/abs/2109.03792) |
+
+## Relation Extraction
+
+| Year | Journal/Conference | Name |
+| ---- | ---- | -------------------------------------------------------------------- |
+| 2021 | EMNLP | [Exploring Task Difficulty for Few-Shot Relation Extraction](https://arxiv.org/abs/2109.05473) |
